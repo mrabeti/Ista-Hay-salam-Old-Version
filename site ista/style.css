@@ -98,7 +98,6 @@ form input:hover{
     border: 1px solid black;
     transform: scale(1.3,1.3);
     position: fixed;
-    right: 0%;
     left: 45%;
     bottom: 28%;
     border-radius: 8px;
@@ -112,7 +111,6 @@ form input:hover{
     border: 1px solid black;
     transform: scale(1.3,1.3);
     position: fixed;
-    right: 0%;
     left:42%;
     bottom: 18%;
 }
